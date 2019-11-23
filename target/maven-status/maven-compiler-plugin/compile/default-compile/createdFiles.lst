@@ -1,0 +1,6 @@
+com\exerc\ws\helpers\ConnectionUtils.class
+com\exerc\ws\helpers\DistanceCalculator$1.class
+com\exerc\ws\MainCoordinate.class
+com\exerc\ws\helpers\DistanceCalculator.class
+com\exerc\ws\Entities\Coordinates.class
+com\exerc\ws\tests\TestClass.class

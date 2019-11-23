@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/ear/ear.iml" filepath="$PROJECT_DIR$/coordinate_1/ear/ear.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/ejbs/ejbs.iml" filepath="$PROJECT_DIR$/coordinate_1/ejbs/ejbs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/projects/logging/logging.iml" filepath="$PROJECT_DIR$/coordinate_1/projects/logging/logging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/primary-source/primary-source.iml" filepath="$PROJECT_DIR$/coordinate_1/primary-source/primary-source.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/projects/projects.iml" filepath="$PROJECT_DIR$/coordinate_1/projects/projects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/servlets/servlet/servlet.iml" filepath="$PROJECT_DIR$/coordinate_1/servlets/servlet/servlet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/coordinate_1/servlets/servlets.iml" filepath="$PROJECT_DIR$/coordinate_1/servlets/servlets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webservices.iml" filepath="$PROJECT_DIR$/webservices.iml" />
+    </modules>
+  </component>
+</project>
